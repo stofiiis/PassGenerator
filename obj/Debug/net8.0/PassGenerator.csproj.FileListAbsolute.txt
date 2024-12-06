@@ -1,0 +1,14 @@
+C:\Users\atlan\source\repos\PassGenerator\bin\Debug\net8.0\PassGenerator.exe
+C:\Users\atlan\source\repos\PassGenerator\bin\Debug\net8.0\PassGenerator.deps.json
+C:\Users\atlan\source\repos\PassGenerator\bin\Debug\net8.0\PassGenerator.runtimeconfig.json
+C:\Users\atlan\source\repos\PassGenerator\bin\Debug\net8.0\PassGenerator.dll
+C:\Users\atlan\source\repos\PassGenerator\bin\Debug\net8.0\PassGenerator.pdb
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.AssemblyInfoInputs.cache
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.AssemblyInfo.cs
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.dll
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\refint\PassGenerator.dll
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.pdb
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\PassGenerator.genruntimeconfig.cache
+C:\Users\atlan\source\repos\PassGenerator\obj\Debug\net8.0\ref\PassGenerator.dll
